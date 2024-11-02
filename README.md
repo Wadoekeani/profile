@@ -1,6 +1,6 @@
 # 作品集
 
-盧昱丞的程式作品集，涵蓋網站、App、桌面應用程式、腳本等領域的開發作品。
+Eason Lu 的程式作品集，涵蓋網站、App、桌面應用程式、腳本等領域的開發作品。
 
 - Github 連結：https://github.com/Dalufishe
 - 個人網站：https://dalufishe-v2-dev.vercel.app/
